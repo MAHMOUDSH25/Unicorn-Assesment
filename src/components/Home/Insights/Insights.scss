@@ -1,0 +1,114 @@
+.Insights-body {
+  // position: absolute;
+  .Insights-content {
+    h1 {
+      margin-left: 10%;
+      width: 40%;
+      top: 30%;
+      font-family: "DM Sans";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 64px;
+      line-height: 120%;
+      letter-spacing: 0.003em;
+      color: #11142d;
+    }
+    .see-more {
+      float: right;
+      margin-right: 150px;
+      margin-top: -50px;
+      width: 130px;
+      border-radius: 20px;
+      border-color: #f8623800;
+      background: none;
+      font-family: "DM Sans";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 120%;
+      /* identical to box height, or 29px */
+
+      text-align: right;
+      letter-spacing: 0.005em;
+
+      /* Light/Secondary Color/50% */
+
+      color: #f86338;
+    }
+  }
+  .album {
+    margin-bottom: 150px;
+    // margin-left: 150px;
+    margin-right: 0;
+    border-radius: 10px;
+  }
+  text {
+    margin-left: 20px;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 120%;
+    letter-spacing: 0.005em;
+    color: #9a9ab0;
+  }
+  .card-title {
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 120%;
+    letter-spacing: 0.005em;
+    color: #11142d;
+  }
+
+  .card-text {
+    // position: absolute;
+    margin-left: 20px;
+    width: 90%;
+    height: 60px;
+    left: 104px;
+    top: 6569px;
+
+    /* Body/Body 1 Regular */
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 125%;
+    /* or 20px */
+
+    letter-spacing: 0.005em;
+
+    /* Light/Text Color/Body 2 */
+
+    color: #9a9ab0;
+  }
+
+  button.Explore-more {
+    // position: absolute;
+    width: 20%;
+    height: 10%;
+    margin-left: 20px;
+    border-radius: 20px;
+    border-color: rgba(255, 255, 255, 0);
+    background: none;
+    /* Heading/H6 Bold */
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+
+    letter-spacing: 0.005em;
+
+    /* Light/Secondary Color/50% */
+
+    color: #f86338;
+  }
+}

@@ -1,0 +1,24 @@
+.container {
+  #search-bar {
+    width: 400px;
+    margin-left: 100px;
+  }
+
+  #SVG-icons {
+    margin-left: 240px;
+  }
+  a {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+
+    letter-spacing: 0.005em;
+
+    /* Light/Text Color/Title */
+
+    color: #11142d;
+  }
+}

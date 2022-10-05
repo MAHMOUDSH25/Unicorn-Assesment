@@ -1,0 +1,36 @@
+.Achievement-body {
+    margin-bottom: 220px;
+  .Achievement-content {
+    h1 {
+      text-align: center;
+      font-family: "DM Sans";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 48px;
+      line-height: 120%;
+      letter-spacing: 0.005em;
+      color: #11142d;
+    }
+  }
+
+  .Logos {
+    text-align: center;
+    ul {
+      list-style: none;
+      display: inline-flex;
+      li {
+        text-align: center;
+        margin: 60px;
+      }
+    }
+    a {
+      text-decoration: none;
+      font-family: "DM Sans";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 120%;
+      letter-spacing: 0.005em;
+    }
+  }
+}
